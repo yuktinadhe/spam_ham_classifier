@@ -1,4 +1,4 @@
-# 📩 Spam or Ham Classifier – Mini Web App with Flask
+# 📩 Spam or Ham Classifier
 
 A simple and fun web app that classifies emails as **Spam** or **Ham (Not Spam)** using Natural Language Processing and a Naive Bayes model.
 
