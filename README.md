@@ -22,12 +22,6 @@ A simple and fun web app that classifies emails as **Spam** or **Ham (Not Spam)*
 - HTML + Inline CSS 🎨
 - Joblib (for model saving/loading)
 
----
-
-## 📁 Project Structure
-
-SpamWebApp/ ├── app.py # Flask backend ├── naive_bayes_model.joblib # Trained model ├── vectorizer.joblib # CountVectorizer ├── templates/ │ └── index.html # Frontend page └── README.md
-
 
 ---
 
